@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043421615678",
+    "firebase_url": "https://phones-a2a53-default-rtdb.firebaseio.com",
+    "project_id": "phones-a2a53",
+    "storage_bucket": "phones-a2a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043421615678:android:78799d3dc48a750a98e36f",
+        "android_client_info": {
+          "package_name": "com.example.class5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043421615678-csno0vjppdhpl13eskh354jon3172mie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeiAzA7a8mpi0ldqVOPTUslHbvxlsFHgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043421615678-csno0vjppdhpl13eskh354jon3172mie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
